@@ -1,2 +1,6 @@
 bonjour je suis là depuis longtemps
+<<<<<<< HEAD
 je ne sais pas depuis quand 
+=======
+je ne sais pas depuis quand 
+>>>>>>> 64fb071edc2a4eda67562ab755a2605c732328d3
